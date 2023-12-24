@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "groupamdinbox",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© 𝑔𝑒𝑛𝑎𝑟𝑒𝑡𝑒 𝑏𝑦 ℎ𝑎𝑟𝑠ℎ𝑎 𝑠𝑎𝑚𝑎𝑛 😍🧚',
   STICKER_PACK : '[ HARSHA ]',
